@@ -1,2 +1,2 @@
 # Modelo-predictivo-prototipo
-prototivo editable de nuestro modelo predictivo final de la hackaton 
+prototivo editable de nuestro modelo predictivo final 
